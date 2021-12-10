@@ -2,19 +2,11 @@
 
   - git clone
 
-  - cd chandrikadeb7.github.io
+  - cd yogidwiandrian.github.io
 
-  - source ~/.nvm/nvm.sh
+  - yarn global add gatsby-cli
 
-  - nvm install node (version 16)
-
-  - npm install -g yarn
-
-  - yarn
-
-  - npm install -g gatsby-cli
-
-  - npm install
+  - yarn install
 
   - git add .
 
@@ -22,4 +14,4 @@
 
   - gatsby build
 
-  - npm run deploy
+  - yarn run deploy
