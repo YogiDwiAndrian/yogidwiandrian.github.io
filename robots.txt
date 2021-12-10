@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yogidwiandrian.github.io/sitemap/sitemap-index.xml
+Host: https://yogidwiandrian.github.io
